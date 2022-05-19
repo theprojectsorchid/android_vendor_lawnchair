@@ -1,4 +1,4 @@
-# Lawnchair AOSP based build system
+# Lawnchair 
 
 ## Disclaimer
 - All credits go to the Lawnchair team.
