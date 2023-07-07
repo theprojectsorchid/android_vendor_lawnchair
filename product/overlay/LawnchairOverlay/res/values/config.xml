@@ -70,7 +70,7 @@
         <item>com.truemlgpro.wifiinfo/com.truemlgpro.wifiinfo.MainActivity</item>
         <item>com.truemlgpro.wifiinfo/com.truemlgpro.wifiinfo.SplashActivity</item>
         <!-- system info -->
-        <item>dev.sebaubuntu.athena/dev.sebaubuntu.athena.MainActivity</item>
+        <item>dev.sebaubuntu.athena.dev/dev.sebaubuntu.athena.MainActivity</item>
         <!-- cleaner -->
         <item>com.d4rk.cleaner.plus/com.d4rk.cleaner.plus.MainActivity</item>
         <!-- app manager -->
